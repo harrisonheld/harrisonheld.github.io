@@ -1,0 +1,41 @@
+/* CSS selector on HTML tag */
+h1 {
+    color: #e91e63;
+}
+
+/* Class applied to multiple elements */
+.section {
+    margin: 20px;
+    padding: 15px;
+}
+
+.highlight {
+    color: #e91e63;
+}
+
+.card-text {
+    color: #e91e63;
+}
+
+/* ID selector */
+#about {
+    border: 1px solid #ffb6c1;
+}
+
+#gallery {
+    border: 1px solid #ffb6c1;
+}
+
+#links {
+    background-color: #fff0f5;
+}
+
+/* Change link color */
+a:hover {
+    color: #c2185b;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
